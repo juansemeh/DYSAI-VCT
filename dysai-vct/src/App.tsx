@@ -13,7 +13,7 @@ function App() {
   }
 
   return (
-    <main className="container">
+    <main className="container flex items-center justify-center h-screen w-screen bg-gray-900 text-white">
       <h1>Welcome to Tauri + React</h1>
 
       <div className="row">
